@@ -45,6 +45,7 @@
       }
     ],
     "imageResize": true,
+    "publishChangesOnly": true,
     "uniqCompNum": 5,
     "versionPublish": "5.5.2"
   },
